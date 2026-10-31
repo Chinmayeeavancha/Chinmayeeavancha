@@ -1,77 +1,73 @@
-# Hi there, I'm Chinmayee Avancha! 👋✨
+# Hi, I'm Chinmayee Avancha 👋
 
-**Undergraduate Computer Science Engineering Student | Aspiring UI/UX Designer & Data Analyst**
+### Computer Science Undergraduate | AI/ML Enthusiast | Aspiring AI Researcher
 
-I'm a passionate design and tech enthusiast based in Hyderabad, India. I specialize in bridging the gap between aesthetics and functionality, creating user-centric designs, and extracting actionable insights through data analysis. 
+I'm a final-year Computer Science and Engineering student at **GITAM School of Technology, Hyderabad**, graduating in 2027.
 
-Currently pursuing my B.Tech in Computer Science Engineering at GITAM Deemed University (Class of 2026), I'm actively exploring the intersection of human-computer interaction, clean interfaces, and data-driven solutions.
+I have hands-on experience in machine learning, Python-based AI applications, and data-driven problem solving. I'm particularly interested in understanding how AI systems work, how their outputs can be evaluated, and how we can make them more reliable, interpretable, and responsible.
 
----
-
-### 👩‍💻 About Me
-- 🔭 Currently interning at **Future Interns** exploring user research, wireframing, and intuitive digital experiences.
-- 👯‍♀️ Open to collaborating on **UI/UX Case Studies, Open Source Design, and Data Science** projects.
-- 🌱 Continuously learning about conversion-driven design and Python-based data preprocessing.
-- 🤝 Passionate about volunteering for **Community Improvement, Gender Equity, Mental Health, and STEM Education**.
-- ⚡ Fun fact: I believe good design isn't just about how it looks, but how effortlessly users can take action.
+My goal is to deepen my understanding of Artificial Intelligence and explore the intersection of technical AI research and its real-world impact.
 
 ---
 
-### 🛠️ Skills & Tools
+## 🧠 Research Interests
 
-**Design & Prototyping**
-- Figma | Canva | Wireframing | User Research | Prototyping
+- Artificial Intelligence and Machine Learning
+- AI Safety and Responsible AI
+- Explainable and Interpretable AI
+- Model Evaluation and Reliability
+- Deep Learning and Natural Language Processing
 
-**Programming & Data**
-- Python | Data Analysis | Basic Data Preprocessing | C (Basics)
+## 💻 Experience
 
-**Other**
-- Leadership & Management | Networking Basics (Cisco Certified)
+**Artificial Intelligence Intern | Codec Technologies**  
+*June 2026 – July 2026*
 
----
+- Built supervised machine learning models using Python and Scikit-learn.
+- Worked on data preprocessing, feature engineering, model training, and evaluation.
+- Developed applications involving spam classification, customer-service chatbots, and house-price prediction.
 
-### 🎨 Featured UI/UX Case Studies
+## 🚀 Selected Projects
 
-#### 🏡 Dream Home Finder – Real Estate UI/UX
-Redesigned a cluttered real estate website into a fast, conversion-driven platform. 
-- **Focus:** Simplified property search, clean card-based listings, and strong CTAs.
-- **Tools:** Figma
+**1. Spam Email Classifier**
+- Built a machine learning classification pipeline to distinguish spam from legitimate emails.
+- Used Python, Pandas, and Scikit-learn.
 
-#### 🚀 CRM Dashboard UI Redesign
-A complete redesign focusing on simplicity, usability, and data clarity.
-- **Features:** Dashboard overview, leads pipeline, task/client management, and analytics.
-- **Goal:** Making complex data feel simple and actionable.
-- **Tools:** Figma
+[View Project](https://github.com/Chinmayeeavancha/Spam_Email_Classifier)
 
-#### 🍩 Dunkin Mobile Ordering App
-Created a seamless mobile ordering experience for browsing, discovering offers, and locating nearby stores.
-- **Focus:** Clear category navigation, visual product cards, and a minimal ordering flow.
-- **Tools:** Figma, Canva
+**2. Dream Home Price Predictor**
+- Developed a regression model to estimate house prices using property features.
+- Applied data preprocessing and feature engineering.
 
----
+[View Project](https://github.com/Chinmayeeavancha/Dream-Home-Predictor)
 
-### 💼 Experience
+**3. AI Customer Service Chatbot**
+- Developed an interactive Python-based chatbot to respond to customer queries.
 
-**Software Development Intern (Data Science)** | *Bharatversity* 
-*(May 2025 - Jun 2025)*
-- Worked remotely on Python-based data analysis and preprocessing.
-- Gained hands-on exposure to problem-solving using real-world datasets and industry-oriented collaborative workflows.
+[View Project](https://github.com/Chinmayeeavancha/Customer_Service_Chatbot.ipynb)
 
-**UI/UX Design Intern** | *Future Interns*
-*(Recent)*
-- Explored user research, wireframing, and creating meaningful digital experiences.
+## 🛠️ Technical Skills
 
----
+**Languages:** Python, C, SQL
 
-### 📫 Let's Connect!
+**Machine Learning:** Scikit-learn, NumPy, Pandas, Classification, Regression
 
-If you want to chat about product design, data analytics, or collaborate on a cool project, feel free to reach out!
+**AI & Deep Learning:** CNNs, Transformers, Explainable AI
 
-- **LinkedIn:** [Chinmayee Avancha](https://www.linkedin.com/in/chinmayee-avancha)
-- **GitHub:** [@Chinmayeeavancha](https://github.com/Chinmayeeavancha)
+**Tools:** Git, GitHub, VS Code
 
-<br>
+## 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chinmayeeavancha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+- Technical AI safety and responsible AI development
+- Machine learning evaluation and interpretability
+- Research methodologies and scientific literature
+- Advanced AI systems and their societal implications
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [Chinmayee Avancha](https://www.linkedin.com/in/chinmayee-avancha-a2585b33b/)
+- **GitHub:** [Chinmayeeavancha](https://github.com/Chinmayeeavancha)
+
+I'm interested in connecting with researchers, learning from interdisciplinary communities, and collaborating on meaningful AI projects.
+
+*Curious about AI. Interested in research. Always learning.*
